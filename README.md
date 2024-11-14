@@ -1,7 +1,7 @@
 # Data_Engineering_Using_Microsoft_Fabric
 
 ## Project Overview
-Learn to build an end to end data engineering and analysis pipelineutilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences. 
+To build an end to end data engineering and analysis pipeline utilising Microsoft Fabric’s Data Factory, Data Engineering, and Power BI experiences. 
 
 Ingesting Earthquake events data from [usgs](https://earthquake.usgs.gov/). 
 
